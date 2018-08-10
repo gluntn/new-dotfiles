@@ -1,0 +1,6 @@
+rofi.font: scientifica 12
+rofi.bg: #333333
+rofi.fg: #11ffbb
+rofi.opacity: 100
+rofi.display-drun: !
+rofi.separator-style: none
