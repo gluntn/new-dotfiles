@@ -462,25 +462,28 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/william/.config/Code/Backups/1533915330962",
+            "folderPath": "/home/william/Programming",
+            "backupPath": "/home/william/.config/Code/Backups/f877c6b5f87cda7fea950336abf8d998",
             "uiState": {
                 "mode": 1,
-                "x": 645,
-                "y": 55,
-                "width": 630,
-                "height": 1005
+                "x": 1349,
+                "y": 560,
+                "width": 551,
+                "height": 500
             }
         }
     },
     "openedPathsList": {
         "workspaces": [
+            "/home/william/Programming",
+            "/home/william/Programming",
+            "/home/william",
+            "/home/william/Programming",
             "/home/william",
             "/home/william/Programming",
             "/home/william/.config/gtk-3.0"
         ],
         "files": [
-            "/etc/apt/sources.list",
-            "/etc/apt/sources.list",
             "/etc/apt/sources.list"
         ]
     },
