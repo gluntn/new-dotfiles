@@ -1,7 +1,7 @@
 {
 
-    "editor.fontFamily": "'scientifica', 'monospace', monospace, 'Droid Sans Fallback'",
-    "editor.fontSize": 18,
+    "editor.fontFamily": "'tobi', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 12,
     "editor.tabSize": 2,
     "editor.renderWhitespace": "all",
     "editor.fontLigatures": true,

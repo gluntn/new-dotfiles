@@ -63,7 +63,7 @@
         },
         "workbench.action.closeWindow": {
             "id": "workbench.action.closeWindow",
-            "label": "Ctrl+W",
+            "label": "Ctrl+Shift+W",
             "isNative": true
         },
         "workbench.action.closeFolder": {
@@ -462,23 +462,21 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "folderPath": "/home/william/Programming",
-            "backupPath": "/home/william/.config/Code/Backups/f877c6b5f87cda7fea950336abf8d998",
+            "folderPath": "/home/william",
+            "backupPath": "/home/william/.config/Code/Backups/d151e28853037a533e5b55ec4bf2b624",
             "uiState": {
                 "mode": 1,
-                "x": 1349,
-                "y": 560,
-                "width": 551,
-                "height": 500
+                "x": 965,
+                "y": 50,
+                "width": 935,
+                "height": 1010
             }
         }
     },
     "openedPathsList": {
         "workspaces": [
-            "/home/william/Programming",
-            "/home/william/Programming",
             "/home/william",
-            "/home/william/Programming",
+            "/home/william",
             "/home/william",
             "/home/william/Programming",
             "/home/william/.config/gtk-3.0"
