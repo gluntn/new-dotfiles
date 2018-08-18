@@ -5,7 +5,8 @@
 # this file and re-run i3-config-wizard(1).
 #
 
-for_window [class="^.*"] border pixel 0
+for_window [class="^.*"] border pixel 3
+client.focused #11ff99 #333333 #ffffff #000000 #11ff99
 
 # i3 config file (v4)
 #
@@ -144,5 +145,5 @@ gaps outer 10
 bindsym $mod+r mode "resize"
 
 exec_always --no-startup-id "~/scripts/polybar-start.sh"
-exec_always --no-startup-id feh --bg-fill ~/Pictures/bg2.jpg
+exec_always --no-startup-id feh --bg-fill ~/Pictures/bg6.jpg
 exec_always --no-startup-id compton
