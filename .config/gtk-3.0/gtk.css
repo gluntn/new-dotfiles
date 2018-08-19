@@ -1,7 +1,7 @@
 VteTerminal,
 TerminalScreen,
 vte-terminal {
-	font-family: FiraCode; 
+	font-family: FiraMono; 
 	font-size: 12pt;
   padding: 10px 10px 10px 10px;
   -VteTerminal-inner-border: 10px 10px 10px 10px;

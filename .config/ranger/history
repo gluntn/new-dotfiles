@@ -1,2 +1,4 @@
 find .c
 open_with 
+open_with fc
+Q

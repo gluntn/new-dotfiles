@@ -6,7 +6,7 @@
 #
 
 for_window [class="^.*"] border pixel 3
-client.focused #11ff99 #333333 #ffffff #000000 #11ff99
+client.focused #11ff99 #11ff99 #ffffff #11ff99 #11ff99
 
 # i3 config file (v4)
 #
@@ -113,7 +113,7 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Vil du logge ut?' -b 'Logg ut' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -144,6 +144,6 @@ gaps outer 10
 
 bindsym $mod+r mode "resize"
 
-exec_always --no-startup-id "~/scripts/polybar-start.sh"
+exec_always --no-startup-id "/bin/polybar-start.sh"
 exec_always --no-startup-id feh --bg-fill ~/Pictures/bg6.jpg
 exec_always --no-startup-id compton
