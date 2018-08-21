@@ -37,3 +37,4 @@ application/pdf=xreader.desktop;
 text/css=code.desktop;
 application/x-font-otf=org.gnome.font-viewer.desktop;
 text/x-install=xed.desktop;
+text/markdown=ghostwriter.desktop;

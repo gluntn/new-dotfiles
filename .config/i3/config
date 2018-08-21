@@ -114,6 +114,8 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Vil du logge ut?' -b 'Logg ut' 'i3-msg exit'"
+bindsym $mod+Shift+m exec "i3-nagbar -t warning -m 'Vil du slå av?' -b 'Avslutt' 'shutdown -t 0'"
+bindsym $mod+Shift+w exec "i3-nagbar -t warning -m 'Vil du starte på nytt?' -b 'Omstart' 'shutdown -r -t 0'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
