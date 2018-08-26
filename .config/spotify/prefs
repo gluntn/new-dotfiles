@@ -1,9 +1,14 @@
 autologin.canonical_username="_tsukeo"
-autologin.blob="Q0DOfjmapZT1g/V9RsOq4vvbbsywYtI/iwkbfZJDXOhRni98K0gyDCul8yP+NhgPN3Hd/CGcur2ln9DdkEQ+hvyXwxkEPNJcFg4aD9WWjiXQHOEHFfPTqMwEs6Q0NQh+viOUsGXXvIcc1egHSvZ0fy5WMuNKq7hZm/CEvRT7pYlEk//l79gSJevUODLptA8v"
+autologin.blob="Q0DOfjmapZT1g/V9RsOq4gYV1ueaBZ1IvM2YrLCohv+VP6C4qn+UuWy3j4NjSde3qX5o3LRa3rV9dXK2Rh8bAJLOHOi0djQT00JqA4pgtTE69bVc+3AzMc2xvzj6gCP0jmdMZfJhd/YzWBEkZBTDqg1H4G5F44cF4gxW4sQwVxrlKfx+jfHTiwt4WdCMj2eN"
 autologin.username="wostensen96@gmail.com"
-autologin.saved_credentials="{\"_tsukeo\":[\"wostensen96@gmail.com\",\"Q0DOfjmapZT1g/V9RsOq4vvbbsywYtI/iwkbfZJDXOhRni98K0gyDCul8yP+NhgPN3Hd/CGcur2ln9DdkEQ+hvyXwxkEPNJcFg4aD9WWjiXQHOEHFfPTqMwEs6Q0NQh+viOUsGXXvIcc1egHSvZ0fy5WMuNKq7hZm/CEvRT7pYlEk//l79gSJevUODLptA8v\"]}"
+autologin.saved_credentials="{\"_tsukeo\":[\"wostensen96@gmail.com\",\"Q0DOfjmapZT1g/V9RsOq4gYV1ueaBZ1IvM2YrLCohv+VP6C4qn+UuWy3j4NjSde3qX5o3LRa3rV9dXK2Rh8bAJLOHOi0djQT00JqA4pgtTE69bVc+3AzMc2xvzj6gCP0jmdMZfJhd/YzWBEkZBTDqg1H4G5F44cF4gxW4sQwVxrlKfx+jfHTiwt4WdCMj2eN\"]}"
 core.clock_delta=0
 storage.last-location="/home/william/.cache/spotify/Storage"
+app.window.position.height=1000
 app.autostart-configured=true
+app.window.position.saved=true
+app.window.position.y=55
 app.last-launched-version="1.0.80.480.g51b03ac3"
 app.autostart-mode=""
+app.window.position.x=25
+app.window.position.width=1870

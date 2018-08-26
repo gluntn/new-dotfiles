@@ -5,8 +5,8 @@
 # this file and re-run i3-config-wizard(1).
 #
 
-for_window [class="^.*"] border pixel 3
-client.focused #11ff99 #11ff99 #ffffff #11ff99 #11ff99
+for_window [class="^.*"] border pixel 5
+client.focused #11ff99 #11ff99 #1a1d26 #11ff99 #11ff99
 
 # i3 config file (v4)
 #
@@ -33,7 +33,7 @@ font pango:FiraCode 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec gnome-terminal
+bindsym $mod+Return exec gnome-terminal --hide-menubar
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -63,7 +63,7 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # Lock PC
-bindsym $mod+l exec i3lock-fancy
+bindsym $mod+l exec i3lock-fancy -p
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -147,5 +147,5 @@ gaps outer 10
 bindsym $mod+r mode "resize"
 
 exec_always --no-startup-id "/bin/polybar-start.sh"
-exec_always --no-startup-id feh --bg-fill ~/Pictures/bg6.jpg
+exec_always --no-startup-id feh --bg-fill ~/Pictures/bg10.jpg
 exec_always --no-startup-id compton
